@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi there, I'm Hridoy 👋</h1>
+<h1 align="center">Hi there, I'm SH Hridoy 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&multiline=true&width=450&height=70&lines=Frontend+Developer;Python+Learner+%7C+C%2B%2B+Coder;Love+to+Learn+New+Techs" alt="Typing SVG" />
@@ -13,9 +13,9 @@
 
 ### 🚀 About Me
 
-- 🎓 Diploma in Computer Science – Bangladesh Technical Education Board (BTEB)
+- 🎓 Diploma in Computer Science – Bangladesh Sweden Polytechnic Institute
 - 🔭 Currently working on: Smart portfolio site & real-world frontend projects
-- 🌱 Learning: Backend with Python, Competitive Programming (C++)
+- 🌱 Learning: Backend, Competitive Programming (C++)
 - 🎯 Goal: Become a Full-Stack Developer & contribute to open source
 - ⚡ Fun fact: I love solving problems on Codeforces & exploring new tech
 
