@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/sh-hridoy001/sh-hridoy001/blob/main/IMG_20250411_165510382_HDR.jpg" width="300" alt="Hridoy's profile photo" />
+</p>
 
 <h1 align="center">Hi there, I'm SH Hridoy 👋</h1>
 
