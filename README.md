@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/sh-hridoy001/sh-hridoy001/blob/main/IMG_20250411_165510382_HDR.jpg" width="100%" height="400" alt="Hridoy's Banner Image" />
+  <img src="https://github.com/sh-hridoy001/sh-hridoy001/blob/main/MYimageForGitHub.jpeg" width="100%" height="450" alt="Hridoy's Banner Image" />
 </p>
 
 
