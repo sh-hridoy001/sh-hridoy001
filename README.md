@@ -1,7 +1,9 @@
 <p align="center">
-  <img src="https://github.com/sh-hridoy001/sh-hridoy001/blob/main/mypic2.jpeg"  alt="Hridoy's Banner Image" />
+  <!-- Full-width banner image -->
+  <img src="https://github.com/sh-hridoy001/sh-hridoy001/blob/main/mypic2.jpeg" 
+       alt="Hridoy's Banner Image" 
+       style="width:100%; height:auto; border-radius: 10px;" />
 </p>
-
 
 <h1 align="center">Hi there, I'm SH Hridoy 👋</h1>
 
@@ -48,6 +50,16 @@
 
 ---
 
+### 🌱 How I'm Growing on GitHub
+
+- ✅ I push code regularly (commits show progress)
+- 🔥 I work on mini and major projects (even frontend practice counts!)
+- 💬 I write clean code and meaningful commit messages
+- 🧠 I try to contribute to others' repos or create small helpful tools
+- 🌟 I try to earn stars by building useful or cool projects others can use
+
+---
+
 ### 🔗 Connect With Me
 
 - 📧 Email: sazzadhossainhridoy961@gmail.com  
@@ -56,4 +68,4 @@
 
 ---
 
-> “The future belongs to those who believe in the beauty of their dreams.” — Eleanor Roosevelt
+> “The future belongs to those who believe in the beauty of their dreams.” — *Eleanor Roosevelt*
