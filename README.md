@@ -1,19 +1,17 @@
 <p align="center">
-  <!-- Full-width banner image -->
-  <img src="https://github.com/sh-hridoy001/sh-hridoy001/blob/main/mypic2.jpeg" 
-       alt="Hridoy's Banner Image" 
-       style="width:100%; height:auto; border-radius: 10px;" />
+  <img src="https://github.com/sh-hridoy001/sh-hridoy001/blob/main/mypic2.jpeg" alt="Hridoy's Banner Image" width="100%" />
 </p>
 
 <h1 align="center">Hi there, I'm SH Hridoy 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&multiline=true&width=450&height=70&lines=Frontend+Developer;Python+Learner+%7C+C%2B%2B+Coder;Love+to+Learn+New+Techs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=500&height=70&lines=💻+Frontend+Developer;🐍+Python+Learner+%7C+⚙️+C%2B%2B+Coder;🚀+Always+Learning+New+Techs" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <img src="https://github.com/sh-hridoy001/sh-hridoy001/blob/main/profile-banner.gif" alt="developer gif" width="60%" />
 </p>
+
 
 ---
 
