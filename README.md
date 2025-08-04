@@ -16,7 +16,7 @@
 
 ### 🚀 About Me
 
-- 🎓 Diploma in Computer Science – Bangladesh Sweden Polytechnic Institute  
+- 🎓 Diploma in Computer Science – Bangladesh Sweden Polytechnic Institute . 
 - 🔭 Currently working on: Smart portfolio site & real-world frontend projects  
 - 🌱 Learning: Backend, Competitive Programming (C++)  
 - 🎯 Goal: Become a Full-Stack Developer & contribute to open source  
