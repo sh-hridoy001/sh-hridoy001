@@ -47,11 +47,6 @@
 
 ---
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duyl328&layout=compact&show_icons=true&theme=tokyonight" height=180/>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=duyl328&show_icons=true&theme=tokyonight" height=180/>
-</div>
 
 ### 🌱 How I'm Growing on GitHub
 
