@@ -4,9 +4,11 @@
 
 <h1 align="center">Hi there, I'm SH Hridoy 👋</h1>
 
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=500&height=70&lines=Frontend+Developer;Python+Learner+%7C+C%2B%2B+Coder;Always+Learning+New+Techs" alt="Typing SVG" />
 </p>
+
 
 <p align="center">
   <img src="https://github.com/sh-hridoy001/sh-hridoy001/blob/main/profile-banner.gif" alt="developer gif" width="60%" />
