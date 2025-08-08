@@ -12,7 +12,6 @@
   <img src="https://github.com/sh-hridoy001/sh-hridoy001/blob/main/profile-banner.gif" alt="developer gif" width="60%" />
 </p>
 
-
 ---
 
 ### 🚀 About Me
@@ -45,7 +44,6 @@
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sh-hridoy001&theme=radical" alt="GitHub Streak" />
 </p>
-
 
 ---
 
