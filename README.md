@@ -12,7 +12,6 @@
   <img src="https://github.com/sh-hridoy001/sh-hridoy001/blob/main/profile-banner.gif" alt="developer gif" width="60%" />
 </p>
 
-
 ---
 
 ### 🚀 About Me
