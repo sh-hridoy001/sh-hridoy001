@@ -38,9 +38,26 @@
 ## 🚀 Technologies & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,c,cpp,py,git,github,vscode,pycharm,clion,ai,ps,canva,figma,wordpress,elementor,netlify,vercel" /><br/>
+  <img src="https://skillicons.dev/icons?i=html" title="HTML5" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=css" title="CSS3" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=c" title="C" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=cpp" title="C++" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=py" title="Python" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=git" title="Git" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=github" title="GitHub" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=pycharm" title="PyCharm" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=clion" title="CLion" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=ai" title="Adobe Illustrator" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=ps" title="Adobe Photoshop" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=canva" title="Canva" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=figma" title="Figma" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=wordpress" title="WordPress" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=netlify" title="Netlify" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=vercel" title="Vercel" width="48" height="48"/>
 </div>
-
 
 ---
 
