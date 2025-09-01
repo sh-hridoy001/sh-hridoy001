@@ -27,11 +27,13 @@
 
 <img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
+
 - 🎓 Diploma in Computer Science – Bangladesh Sweden Polytechnic Institute  
 - 🔭 Currently working on: Smart portfolio site & real-world frontend projects  
 - 🌱 Learning: Backend, Competitive Programming (C++)  
 - 🎯 Goal: Become a Full-Stack Developer & contribute to open source  
 - ⚡ Fun fact: I love solving problems on Codeforces & exploring new tech  
+
 
 ---
 
@@ -58,6 +60,7 @@
   <img src="https://skillicons.dev/icons?i=netlify" title="Netlify" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=vercel" title="Vercel" width="48" height="48"/>
 </div>
+
 
 ---
 
