@@ -79,9 +79,6 @@
 
 ---
 
-## 🏆 GitHub Trophies  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sh-hridoy001&theme=darkhub&margin-w=15)
-
 ---
 ## 🔗 Connect With Me
 
