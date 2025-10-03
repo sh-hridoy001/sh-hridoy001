@@ -54,7 +54,6 @@
   <img src="https://skillicons.dev/icons?i=clion" title="CLion" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=ai" title="Adobe Illustrator" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=ps" title="Adobe Photoshop" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=canva" title="Canva" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=figma" title="Figma" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=wordpress" title="WordPress" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=netlify" title="Netlify" width="48" height="48"/>
