@@ -47,6 +47,7 @@
   <img src="https://skillicons.dev/icons?i=c" title="C" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=cpp" title="C++" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=py" title="Python" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=java" title="Java" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=git" title="Git" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=github" title="GitHub" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" width="48" height="48"/>
