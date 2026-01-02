@@ -34,47 +34,43 @@
 - 🎯 Goal: Become a Full-Stack Developer & contribute to open source  
 - ⚡ Fun fact: I love solving problems on Codeforces & exploring new tech  
 
-
 ---
 
 ## 🚀 Technologies & Tools
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html" title="HTML5" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=css" title="CSS3" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=c" title="C" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=cpp" title="C++" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=py" title="Python" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=java" title="Java" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=git" title="Git" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=github" title="GitHub" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=pycharm" title="PyCharm" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=clion" title="CLion" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=ai" title="Adobe Illustrator" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=ps" title="Adobe Photoshop" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=figma" title="Figma" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=wordpress" title="WordPress" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=netlify" title="Netlify" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=vercel" title="Vercel" width="48" height="48"/>
-</div>
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html" width="48" title="HTML5"/>
+  <img src="https://skillicons.dev/icons?i=css" width="48" title="CSS3"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" width="48" title="Tailwind CSS"/>
+  <img src="https://skillicons.dev/icons?i=js" width="48" title="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=c" width="48" title="C"/>
+  <img src="https://skillicons.dev/icons?i=cpp" width="48" title="C++"/>
+  <img src="https://skillicons.dev/icons?i=py" width="48" title="Python"/>
+  <img src="https://skillicons.dev/icons?i=java" width="48" title="Java"/>
+  <img src="https://skillicons.dev/icons?i=git" width="48" title="Git"/>
+  <img src="https://skillicons.dev/icons?i=github" width="48" title="GitHub"/>
+  <img src="https://skillicons.dev/icons?i=vscode" width="48" title="VS Code"/>
+  <img src="https://skillicons.dev/icons?i=pycharm" width="48" title="PyCharm"/>
+  <img src="https://skillicons.dev/icons?i=clion" width="48" title="CLion"/>
+  <img src="https://skillicons.dev/icons?i=ai" width="48" title="Adobe Illustrator"/>
+  <img src="https://skillicons.dev/icons?i=ps" width="48" title="Adobe Photoshop"/>
+  <img src="https://skillicons.dev/icons?i=figma" width="48" title="Figma"/>
+  <img src="https://skillicons.dev/icons?i=wordpress" width="48" title="WordPress"/>
+  <img src="https://skillicons.dev/icons?i=netlify" width="48" title="Netlify"/>
+  <img src="https://skillicons.dev/icons?i=vercel" width="48" title="Vercel"/>
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/sh-hridoy001/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=sh-hridoy001&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="Streak Stats"/>
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sh-hridoy001&theme=black-ice&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sh-hridoy001&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh-hridoy001&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sh-hridoy001&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh-hridoy001&layout=compact&theme=react&hide_border=true&bg_color=0D1117" height="170"/>
 </p>
 
 ---
