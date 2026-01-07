@@ -97,6 +97,15 @@ I am actively solving problems to strengthen my **algorithmic thinking** and **p
 
 ---
 
+## ⭐ GitHub Stars & Reach
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/sh-hridoy001?style=for-the-badge&logo=github&label=Total%20Stars" />
+  <img src="https://img.shields.io/github/followers/sh-hridoy001?style=for-the-badge&logo=github&label=Followers" />
+</p>
+
+---
+
 ## 🔗 Connect With Me
 
 <div align="center">
