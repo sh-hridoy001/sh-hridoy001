@@ -87,12 +87,11 @@ I am actively solving problems to strengthen my **algorithmic thinking** and **p
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sh-hridoy001&theme=black-ice&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sh-hridoy001&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&cache_seconds=86400" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sh-hridoy001&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh-hridoy001&layout=compact&theme=react&hide_border=true&bg_color=0D1117" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh-hridoy001&layout=compact&theme=react&hide_border=true&bg_color=0D1117&cache_seconds=86400" height="170"/>
 </p>
 
 ---
