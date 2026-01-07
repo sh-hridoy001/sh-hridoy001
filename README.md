@@ -27,12 +27,34 @@
 
 <img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-
 - 🎓 Diploma in Computer Science – Bangladesh Sweden Polytechnic Institute  
-- 🔭 Currently working on: Smart portfolio site & real-world frontend projects  
-- 🌱 Learning: Backend, Competitive Programming (C++)  
-- 🎯 Goal: Become a Full-Stack Developer & contribute to open source  
-- ⚡ Fun fact: I love solving problems on Codeforces & exploring new tech  
+- 🧠 Competitive Programmer & Problem Solver  
+- 🔭 Currently focusing on: **Data Structures & Algorithms (C++)**  
+- 🌱 Learning: Advanced C++, STL, Problem Solving Techniques  
+- 🏆 Active on Codeforces, CodeChef & HackerRank 
+- 🎯 Goal: Crack international-level software engineering roles  
+- ⚡ Fun fact: I enjoy debugging more than writing fresh code 😄
+
+---
+
+## 🧠 Competitive Programming
+
+I am actively solving problems to strengthen my **algorithmic thinking** and **problem-solving skills**.
+
+### 🏁 Platforms
+- 🔹 Codeforces  
+- 🔹 CodeChef  
+- 🔹 HackerRank  
+- 🔹 Phitron OJ  
+- 🔹 Online Judges / Practice Contests  
+
+### 🛠 Topics I Practice
+- Arrays & Strings  
+- Recursion & Sorting  
+- Linked List, Stack, Queue  
+- Binary Search  
+- STL (Vector, Map, Set, Priority Queue)  
+- Basic Math & Number Theory  
 
 ---
 
