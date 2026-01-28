@@ -58,29 +58,8 @@ I am actively solving problems to strengthen my **algorithmic thinking** and **p
 
 ---
 
-## 🚀 Technologies & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html" width="48" title="HTML5"/>
-  <img src="https://skillicons.dev/icons?i=css" width="48" title="CSS3"/>
-  <img src="https://skillicons.dev/icons?i=tailwind" width="48" title="Tailwind CSS"/>
-  <img src="https://skillicons.dev/icons?i=js" width="48" title="JavaScript"/>
-  <img src="https://skillicons.dev/icons?i=c" width="48" title="C"/>
-  <img src="https://skillicons.dev/icons?i=cpp" width="48" title="C++"/>
-  <img src="https://skillicons.dev/icons?i=py" width="48" title="Python"/>
-  <img src="https://skillicons.dev/icons?i=java" width="48" title="Java"/>
-  <img src="https://skillicons.dev/icons?i=git" width="48" title="Git"/>
-  <img src="https://skillicons.dev/icons?i=github" width="48" title="GitHub"/>
-  <img src="https://skillicons.dev/icons?i=vscode" width="48" title="VS Code"/>
-  <img src="https://skillicons.dev/icons?i=pycharm" width="48" title="PyCharm"/>
-  <img src="https://skillicons.dev/icons?i=clion" width="48" title="CLion"/>
-  <img src="https://skillicons.dev/icons?i=ai" width="48" title="Adobe Illustrator"/>
-  <img src="https://skillicons.dev/icons?i=ps" width="48" title="Adobe Photoshop"/>
-  <img src="https://skillicons.dev/icons?i=figma" width="48" title="Figma"/>
-  <img src="https://skillicons.dev/icons?i=wordpress" width="48" title="WordPress"/>
-  <img src="https://skillicons.dev/icons?i=netlify" width="48" title="Netlify"/>
-  <img src="https://skillicons.dev/icons?i=vercel" width="48" title="Vercel"/>
-</p>
+## 💻 Tools & Technologies I Use
+<div style="display: flex; align-items: flex-start; align: center"> <table align="center"> <tr> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" /> <br>HTML5 </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" /> <br>CSS3 </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="TailwindCSS" /> <br>Tailwind CSS </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" /> <br>JavaScript </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" /> <br>C </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" /> <br>C++ </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" /> <br>Python </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" /> <br>Java </td> </tr> <tr> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /> <br>Git </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" /> <br>GitHub </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" /> <br>VS Code </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=pycharm" width="48" height="48" alt="PyCharm" /> <br>PyCharm </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=clion" width="48" height="48" alt="CLion" /> <br>CLion </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" /> <br>Figma </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=adobe" width="48" height="48" alt="Adobe" /> <br>Adobe Tools </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=netlify" width="48" height="48" alt="Netlify" /> <br>Netlify </td> </tr> </table> </div>
 
 ---
 
