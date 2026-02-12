@@ -23,7 +23,7 @@
 
 ---
 
-## 🙋‍♂️ About Me
+## About Me
 
 <img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
@@ -58,7 +58,7 @@ I am actively solving problems to strengthen my **algorithmic thinking** and **p
 
 ---
 
-## 💻 Tools & Technologies I Use
+## Tools & Technologies I Use
 
 <div align="center"> <table> <tr> <!-- Animated Icons --> <td align="center" width="96"> <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65"/> <br>JavaScript </td> <td align="center" width="96"> <img src="https://techstack-generator.vercel.app/java-icon.svg" width="65" height="65"/> <br>Java </td> <td align="center" width="96"> <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="65" height="65"/> <br>C++ </td> <td align="center" width="96"> <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65"/> <br>Python </td> <td align="center" width="96"> <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65"/> <br>GitHub </td> </tr> <tr> <!-- Static Skill Icons --> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=html" width="48" height="48"/> <br>HTML5 </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=css" width="48" height="48"/> <br>CSS3 </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48"/> <br>Tailwind </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=c" width="48" height="48"/> <br>C </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=git" width="48" height="48"/> <br>Git </td> </tr> <tr> <!-- IDEs & Tools --> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48"/> <br>VS Code </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=pycharm" width="48" height="48"/> <br>PyCharm </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=clion" width="48" height="48"/> <br>CLion </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48"/> <br>WordPress </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=netlify" width="48" height="48"/> <br>Netlify </td> </tr> <tr> <!-- Design Tools --> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=figma" width="48" height="48"/> <br>Figma </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=ps" width="48" height="48"/> <br>Photoshop </td> <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=ai" width="48" height="48"/> <br>Illustrator </td></tr> <tr> <!-- Problem Solving Platforms --> 
 </table> </div>
